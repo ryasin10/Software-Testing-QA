@@ -1,9 +1,5 @@
 # Software Testing & QA
 
-A collection of notes and summaries about **Software Testing and Quality Assurance**.
-
-This repository contains the main concepts I am studying in Software Testing, including manual testing, automation, unit testing, integration testing, system testing, regression testing, and non-functional testing.
-
 ---
 
 ## 📚 Topics
