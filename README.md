@@ -159,12 +159,3 @@ The notes in this repository are based mainly on learning materials from:
 - [Guru99](https://www.guru99.com/)
 - Software Testing documentation and learning resources
 
-The content has been summarized and organized for learning purposes.
-
----
-
-## 📌 Note
-
-These are personal study notes created to organize and review Software Testing and QA concepts.
-
-They are written in a simplified format with examples and comparisons to make the concepts easier to understand and revise.
