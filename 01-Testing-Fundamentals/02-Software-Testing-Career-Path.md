@@ -1,15 +1,5 @@
 # Software Testing Career – How to Become a Software Tester
 
-## 📌 Source
-
-This README is based on the following Guru99 article:
-
-**How To Become a Software Tester (Career Path)**
-Author: Thomas Hamilton
-Last Updated: November 18, 2025
-
-Source: Guru99
-
 ---
 
 # 1. Who is a Software Tester?
