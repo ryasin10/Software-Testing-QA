@@ -1,13 +1,10 @@
 
 # Software Testing: Overview & Fundamentals
-
-
 ---
 
 ## 📌 1. What is Software Testing?
 
 **Software Testing** is a method to check whether an actual software product matches expected requirements and to ensure that the software product is defect-free. It involves the execution of software/system components using manual or automated tools to evaluate properties of interest.
-
 
 ### Core Concepts & Standards
 * **Primary Purpose:** Identify errors, gaps, or missing requirements against actual specifications.
@@ -19,7 +16,6 @@
 ## ⚡ 2. Why is Software Testing Important?
 
 Identifying bugs early in the Software Development Life Cycle (SDLC) reduces risk, lowers development costs, and ensures stable post-release operations.
-
 
 ### Key Benefits
 * 💰 **Cost-Effective:** Fixing bugs caught in early stages costs significantly less than post-deployment fixes.
@@ -47,7 +43,7 @@ Software testing is broadly categorized into three main domains:
 
 
 
-```
+
                   ┌─────────────────────────────────┐
                   │    Types of Software Testing    │
                   └────────────────┬────────────────┘
@@ -55,7 +51,7 @@ Software testing is broadly categorized into three main domains:
      ┌─────────────────────────────┼─────────────────────────────┐
      ▼                             ▼                             ▼
 
-```
+
 
 ┌─────────────────┐           ┌─────────────────┐           ┌─────────────────┐
 │   Functional    │           │ Non-Functional  │           │   Maintenance   │
@@ -67,7 +63,7 @@ Software testing is broadly categorized into three main domains:
 ├─ Smoke & Sanity             ├─ Usability Testing          └─ Configuration Testing
 └─ UAT & API Testing          └─ Compatibility Testing
 
-```
+
 
 ### A. Functional Testing
 Verifies **"what"** the software does by testing features against specified functional requirements.
@@ -105,14 +101,14 @@ Executed on live, operational systems undergoing updates, patches, or environmen
 Software testing is structured across sequential phases during the development lifecycle:
 
 
-```
+
 
 [ Unit Testing ]  -->  [ Integration Testing ]  -->  [ System Testing ]  -->  [ Acceptance Testing ]
 
-```
 
 1. **Unit Testing:** Executed by programmers to test isolated code modules and functions.
 2. **Integration Testing:** Focuses on construction and design, ensuring connected units interact correctly.
 3. **System Testing:** The application is compiled and tested as a whole to evaluate system-level compliance.
 4. **Acceptance Testing:** Final verification to ensure system capabilities satisfy original business requirements.
 
+---
