@@ -41,9 +41,8 @@ Inadequate software testing can result in catastrophic financial losses and life
 Software testing is broadly categorized into three main domains:
 
 <p align="center">
-  <img src="<p align="center">
   <img src="https://raw.githubusercontent.com/ryasin10/Software-Testing-QA/main/testing-types.jpg" alt="Types of Software Testing Diagram" width="100%"/>
-</p>" alt="Types of Software Testing Diagram" width="100%"/>
+</p>" 
 </p>
 
 ### A. Functional Testing
