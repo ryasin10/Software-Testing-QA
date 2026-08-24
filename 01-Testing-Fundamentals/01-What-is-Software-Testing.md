@@ -1,7 +1,6 @@
 
 # Software Testing: Overview & Fundamentals
 
-> Comprehensive reference based on [Guru99 Software Testing Guide](https://www.guru99.com/software-testing-introduction-importance.html).
 
 ---
 
@@ -9,9 +8,6 @@
 
 **Software Testing** is a method to check whether an actual software product matches expected requirements and to ensure that the software product is defect-free. It involves the execution of software/system components using manual or automated tools to evaluate properties of interest.
 
-<p align="center">
-  <img src="https://www.guru99.com/images/1/032918_1012_WhatisSoftw1.png" alt="What is Software Testing" width="600"/>
-</p>
 
 ### Core Concepts & Standards
 * **Primary Purpose:** Identify errors, gaps, or missing requirements against actual specifications.
@@ -24,9 +20,6 @@
 
 Identifying bugs early in the Software Development Life Cycle (SDLC) reduces risk, lowers development costs, and ensures stable post-release operations.
 
-<p align="center">
-  <img src="https://www.guru99.com/images/1/032918_1012_WhatisSoftw2.png" alt="Why Testing is Important" width="650"/>
-</p>
 
 ### Key Benefits
 * 💰 **Cost-Effective:** Fixing bugs caught in early stages costs significantly less than post-deployment fixes.
@@ -52,12 +45,7 @@ Inadequate software testing can result in catastrophic financial losses and life
 
 Software testing is broadly categorized into three main domains:
 
-<p align="center">
-  <img src="https://www.guru99.com/images/1/032918_1012_WhatisSoftw3.png" alt="Types of Software Testing" width="700"/>
-</p>
 
-
-```
 
 ```
                   ┌─────────────────────────────────┐
