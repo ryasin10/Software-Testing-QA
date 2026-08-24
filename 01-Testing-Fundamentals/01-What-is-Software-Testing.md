@@ -40,21 +40,9 @@ Inadequate software testing can result in catastrophic financial losses and life
 ## 🛠️ 4. Types & Categories of Software Testing
 Software testing is broadly categorized into three main domains:
 
-┌─────────────────────────────────┐
-                  │    Types of Software Testing    │
-                  └────────────────┬────────────────┘
-                                   │
-     ┌─────────────────────────────┼─────────────────────────────┐
-     ▼                             ▼                             ▼
-┌─────────────────┐           ┌─────────────────┐           ┌─────────────────┐
-│   Functional    │           │ Non-Functional  │           │   Maintenance   │
-└────────┬────────┘           └────────┬────────┘           └────────┬────────┘
-│                             │                             │
-├─ Unit Testing               ├─ Performance Testing        ├─ Regression Testing
-├─ Integration Testing        ├─ Load & Stress Testing      ├─ Maintenance Testing
-├─ System Testing             ├─ Security Testing           ├─ Impact Analysis
-├─ Smoke & Sanity             ├─ Usability Testing          └─ Configuration Testing
-└─ UAT & API Testing          └─ Compatibility Testing
+<p align="center">
+  <img src="./testing-types.jpg" alt="Types of Software Testing Diagram" width="100%"/>
+</p>
 
 ### A. Functional Testing
 Verifies **"what"** the software does by testing features against specified functional requirements.
