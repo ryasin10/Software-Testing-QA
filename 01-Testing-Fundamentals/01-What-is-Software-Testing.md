@@ -40,10 +40,6 @@ Inadequate software testing can result in catastrophic financial losses and life
 ## 🛠️ 4. Types & Categories of Software Testing
 Software testing is broadly categorized into three main domains:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ryasin10/Software-Testing-QA/main/testing-types.jpg" alt="Types of Software Testing Diagram" width="100%"/> 
-</p>
-
 ### A. Functional Testing
 Verifies **"what"** the software does by testing features against specified functional requirements.
 * **Unit Testing:** Tests individual components or units of code in isolation.
