@@ -1,55 +1,44 @@
 # Software Testing & QA
 
-This repository contains my Software Testing and Quality Assurance learning notes, organized according to the syllabus.
+This repository contains my Software Testing and Quality Assurance learning notes, structured according to core QA principles and topics.
+
+---
 
 ## 📚 Repository Structure
 
-### 01. Testing Fundamentals
+### 01. [Testing Fundamentals](./01-Testing-Fundamentals)
+Covers core concepts, methodologies, and the groundwork of software quality assurance:
+* What is Software Testing?
+* Software Testing Career Path
+* Seven Principles of Software Testing
+* V-Model
+* Software Testing Life Cycle (STLC)
 
-This section covers the foundations of software testing, including:
+### 02. [Testing Types](./02-Testing-Types)
+Focuses on manual, automated, functional, and non-functional testing types:
+* Manual Testing vs. Automation Testing
+* Unit Testing & Types of Unit Testing
+* Integration Testing
+* System Testing
+* Smoke & Sanity Testing
+* Regression Testing
+* Non-Functional Testing
 
-- What is Software Testing?
-- Software Testing Career Path
-- Seven Principles of Software Testing
-- V-Model
-- Software Testing Life Cycle (STLC)
+### 03. [Test Case Development](./03-Test-Case-Development)
+Covers test documentation and test case design artifacts:
+* Test Documentation
+* Test Cases & Execution Strategy
 
-> This section will be added as the first part of the repository.
+### 04. [Testing Techniques](./04-Testing-Techniques)
+Focuses on black-box and white-box test design techniques used to design efficient test cases.
 
-### 02. Testing Types
-
-This section contains the testing types covered so far:
-
-- Manual Testing
-- Automation Testing
-- Manual vs Automated Testing
-- Unit Testing
-- Types of Unit Testing
-- Integration Testing
-- System Testing
-- Smoke & Sanity Testing
-- Regression Testing
-- Non-Functional Testing
-
-➡️ [Testing Types](./02-Testing-Types/)
-
-### 03. Test Documentation
-
-Coming next.
-
-### 04. Test Design Techniques
-
-Coming next.
-
-### 05. Test Management
-
-Coming next.
+### 05. [Test Management & Control](./05-Test-Management-Control)
+Covers test execution tracking, defect management, reporting, and QA metrics.
 
 ---
 
 ## 📖 References
 
-The notes are based mainly on learning materials from:
-
-- [Guru99](https://www.guru99.com/)
-- Software Testing documentation and learning resources
+The notes and materials in this repository are gathered and adapted from:
+* [Guru99](https://www.guru99.com/)
+* Standard Software Testing Documentation & ISTQB Learning Resources
