@@ -38,31 +38,27 @@ Inadequate software testing can result in catastrophic financial losses and life
 ---
 
 ## 🛠️ 4. Types & Categories of Software Testing
-
 Software testing is broadly categorized into three main domains:
 
 
-
-
-                  ┌─────────────────────────────────┐
-                  │    Types of Software Testing    │
-                  └────────────────┬────────────────┘
-                                   │
-     ┌─────────────────────────────┼─────────────────────────────┐
-     ▼                             ▼                             ▼
-
-
-
-┌─────────────────┐           ┌─────────────────┐           ┌─────────────────┐
-│   Functional    │           │ Non-Functional  │           │   Maintenance   │
-└────────┬────────┘           └────────┬────────┘           └────────┬────────┘
-│                             │                             │
-├─ Unit Testing               ├─ Performance Testing        ├─ Regression Testing
-├─ Integration Testing        ├─ Load & Stress Testing      ├─ Maintenance Testing
-├─ System Testing             ├─ Security Testing           ├─ Impact Analysis
-├─ Smoke & Sanity             ├─ Usability Testing          └─ Configuration Testing
-└─ UAT & API Testing          └─ Compatibility Testing
-
+graph TD
+    A[Types of Software Testing] --> B[Functional Testing]
+    A --> C[Non-Functional Testing]
+    A --> D[Maintenance Testing]
+    B --> B1[Unit Testing]
+    B --> B2[Integration Testing]
+    B --> B3[System Testing]
+    B --> B4[Smoke & Sanity]
+    B --> B5[UAT & API Testing]
+    C --> C1[Performance Testing]
+    C --> C2[Load & Stress Testing]
+    C --> C3[Security Testing]
+    C --> C4[Usability Testing]
+    C --> C5[Compatibility Testing]
+    D --> D1[Regression Testing]
+    D --> D2[Maintenance Testing]
+    D --> D3[Impact Analysis]
+    D --> D4[Configuration Testing]
 
 
 ### A. Functional Testing
