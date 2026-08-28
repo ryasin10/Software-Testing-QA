@@ -37,8 +37,3 @@ Covers test execution tracking, defect management, reporting, and QA metrics.
 
 ---
 
-## 📖 References
-
-The notes and materials in this repository are gathered and adapted from:
-* [Guru99](https://www.guru99.com/)
-* Standard Software Testing Documentation & ISTQB Learning Resources
